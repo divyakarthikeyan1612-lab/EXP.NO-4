@@ -43,3 +43,4 @@ Everyday Functioning Prompts:
   https://drive.google.com/file/d/12nhTuidb8eYvtw8paXyL6P3LhIg6dvZn/view?usp=sharing
 
   RESULT:
+The Everyday Functioning Prompt successfully explains how smartphone technologies support users in their daily activities and improve efficiency, communication, learning, and entertainment.
